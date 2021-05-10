@@ -1,2 +1,3 @@
 # Dice-game
-Dice Game 
+A game that randomly chooses dice for 2 players and declares a winner.
+A review of Javascript for me.
